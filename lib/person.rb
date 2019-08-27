@@ -1,4 +1,4 @@
-require_relative "dog"
+require_relative 'dog'
 
 class Person
   def talk
