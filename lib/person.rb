@@ -1,5 +1,3 @@
-require_relative 'dog'
-
 class Person
   def talk
     puts "Hello World!"
