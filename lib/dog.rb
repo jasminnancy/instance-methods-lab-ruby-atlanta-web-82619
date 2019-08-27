@@ -1,3 +1,5 @@
+require_relative "person"
+
 class Dog
   def bark
     puts "Woof!"
